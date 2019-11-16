@@ -1,1 +1,2 @@
-# Chapter7-in-Basic-C
+# Basic C Programming Tutorial 
+## Chapter 7. Constants and Literals
